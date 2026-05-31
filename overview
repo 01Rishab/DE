@@ -1,0 +1,1 @@
+Built an end-to-end ELT pipeline ingesting e-commerce data into DuckDB, modeled with dbt (staging + marts layers), with automated data quality tests covering uniqueness, nullability, and value constraints.
